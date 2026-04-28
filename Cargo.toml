@@ -1,0 +1,12 @@
+[package]
+name = "webecon"
+version = "17.2.6"
+edition = "2021"
+authors = ["Aditya Divte Production <support@adityadivte.com>"]
+description = "Official Webecon Rust SDK for high-performance animated icons."
+license = "MIT"
+repository = "https://github.com/adityadivte/webecon-rust"
+keywords = ["icons", "animated", "webecon", "sdk"]
+categories = ["web-programming"]
+
+[dependencies]
